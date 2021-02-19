@@ -17,5 +17,7 @@ opencv
 ## Usage  
 The Bilinear_Activation_slice module could be used for feature fusion.  
 The Semantic Diffusion module can be plugged before segmentation modules to refine the feature maps.  
-More files are coming soon!
+
+
+### More files are coming soon!
 
